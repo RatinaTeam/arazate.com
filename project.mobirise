@@ -10,7 +10,7 @@
         "successColor": "#eff0f6",
         "infoColor": "#3f69ff;",
         "warningColor": "#FF9417",
-        "dangerColor": "#179EFF",
+        "dangerColor": "#fdbe35",
         "mainFont": "Space Grotesk",
         "display1Font": "Space Grotesk",
         "display1Size": 4.375,
@@ -25,7 +25,7 @@
         "isRoundedButtons": true,
         "isGhostButtonBorder": false,
         "underlinedLinks": true,
-        "isAnimatedOnScroll": false,
+        "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       },
       "titlePreset": "Makeup Artist",
